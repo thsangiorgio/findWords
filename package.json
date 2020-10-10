@@ -1,0 +1,17 @@
+{
+	"name": "find-words",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "mocha --watch"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"chai": "^4.2.0",
+		"chance": "^1.1.7",
+		"mocha": "^8.1.3"
+	}
+}
